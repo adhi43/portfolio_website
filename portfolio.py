@@ -4,7 +4,7 @@ api_key = "AIzaSyBGclpNQWNusp2rbH6FoxEOiyNv0uOsmqs"
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
- st.title(" ")
+st.title(" ")
 st.subheader("Hi :wave:")
 st.title("I am Adarsh Anil")
 
