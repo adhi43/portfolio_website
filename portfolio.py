@@ -4,13 +4,10 @@ api_key = "AIzaSyBGclpNQWNusp2rbH6FoxEOiyNv0uOsmqs"
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
-col1,col2 = st.columns(2)
-with col1:
-    st.title(" ")
-    st.subheader("Hi :wave:")
-    st.title("I am Adarsh Anil")
-with col2:
-    st.image("images/WhatsApp Image 2024-12-20 at 09.57.48_0aba8089.jpg")
+ st.title(" ")
+st.subheader("Hi :wave:")
+st.title("I am Adarsh Anil")
+
 
 
 
