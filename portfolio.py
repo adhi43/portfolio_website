@@ -37,7 +37,7 @@ he can only kiss and sleep with only jasmine and cant imagine with other person.
  at MMAR Schhol, Chengannur. Both Adarsh and Jasmine lives in Chengannur.
   Adarsh has completed his Btech in Computer Science from college of engineering,chengannur. Adarsh is currently working as a trainee Software Engineer in MagicMyna, Coimbatore.
   Adarsh is currently parallely doing Data Science Course Adarsh loves Cricket and his favourite ipl team is RCB and his favopurite player is Virat Kohli. My favourite food is Porotta and Beef. I am not married.
-  i recently had a breakup and im single now.  My favourite colour is Blue.
+  i recently had a breakup and im single now.  My favourite colour is Blue. adarsh is working under vicky anna
  """
 
 st.title(" ")
